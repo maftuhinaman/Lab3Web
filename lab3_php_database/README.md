@@ -19,6 +19,7 @@
 - buat tabel dengan nama data_barang
 - sesuai dengan struktur pada gambar diatas
 - buatlah file koneksi.php
+```php
 <?php
 $host = "localhost";
 $user = "root";
@@ -32,4 +33,5 @@ die();
 } #else echo "Koneksi berhasil";
 ?>
 
+```
 

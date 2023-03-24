@@ -15,6 +15,21 @@
 
 ### _Penjelasan :_
 
-- buat lah data base sesuai dengan struktur pada gambar diatas
-- lalu tambahkan datanya
+- buat lah data base dengan nama latihan1
+- buat tabel dengan nama data_barang
+- sesuai dengan struktur pada gambar diatas
+- buatlah file koneksi.php
+<?php
+$host = "localhost";
+$user = "root";
+$pass = "";
+$db = "latihan1";
+$conn = mysqli_connect($host, $user, $pass, $db);
+if ($conn == false)
+{
+echo "Koneksi ke server gagal.";
+die();
+} #else echo "Koneksi berhasil";
+?>
+
 

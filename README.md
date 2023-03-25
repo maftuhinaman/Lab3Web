@@ -48,9 +48,19 @@
 
 <img src="lab3_php_database/gambar/tambah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
+### _hasilnya :_
+
+<img src="lab3_php_database/gambar/hasilTambah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+
 ### _ubah data :_
 
 <img src="lab3_php_database/gambar/ubah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+
+### _hasilnya :_
+
+<img src="lab3_php_database/gambar/hasilUbah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+
+
 
 
 

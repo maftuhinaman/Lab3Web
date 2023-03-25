@@ -1,4 +1,3 @@
-# Lab3Web
 # PROJECT PRAKTIKUM 2 (PHP Dasar)
 
 **_Nama: Mafttuhin Amanulloh_** <br/>
@@ -42,9 +41,9 @@
 
 - data barang menampilkan data yang ada pada database `latihan1` table `lab3_php_database` ,menampilkan gambar,data barang ,kategori,harga jual ,harga beli ,stok,dan aksi
 - terdapat tiga button yaitu:
-button tambah barang untuk menambahkan data barang ,
-button ubah untuk mengubah data barang sesuai id brang,
-button hapus untuk menghapus data barang sesuai id barang
+- button tambah barang untuk menambahkan data barang ,
+- button ubah untuk mengubah data barang sesuai id brang,
+- button hapus untuk menghapus data barang sesuai id barang
 ### _tambah data :_
 
 <img src="gambar/tambah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">

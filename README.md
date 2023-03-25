@@ -10,7 +10,7 @@
 
 ### _Data Barang :_
 
-<img src="gambar/dataBase.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab3_php_database/gambar/dataBase.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 ### _Penjelasan :_
 
@@ -20,7 +20,7 @@
 
 ### _strutur folder :_
 
-<img src="gambar/struktur-folder.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab3_php_database/gambar/struktur-folder.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 ### _Penjelasan :_
 
@@ -37,7 +37,7 @@
 
 ### _Data Barang :_
 
-<img src="gambar/data-barang.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab3_php_database/gambar/data-barang.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 - data barang menampilkan data yang ada pada database `latihan1` table `lab3_php_database` ,menampilkan gambar,data barang ,kategori,harga jual ,harga beli ,stok,dan aksi
 - terdapat tiga button yaitu:
@@ -46,11 +46,11 @@
 - button hapus untuk menghapus data barang sesuai id barang
 ### _tambah data :_
 
-<img src="gambar/tambah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab3_php_database/gambar/tambah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 ### _ubah data :_
 
-<img src="gambar/ubah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="lab3_php_database/gambar/ubah.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 
 
